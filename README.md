@@ -1,4 +1,4 @@
 # The-Squire
 
 
-Just a skidded selfbot for discord, do big D.
+Just a skidded selfbot for discord, no big D.
